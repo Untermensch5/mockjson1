@@ -1,0 +1,104 @@
+{
+"cars": [
+{
+"modelId": 10325,
+"id": 1,
+"modelName": "BMW",
+"modelType": "M6",
+"modelYear": "2018",
+"image": "https://cdn05.carsforsale.com/00fb1d3130d1995a0c2df99dc49d4c24db/480x360/2018-bmw-m6-gran-coupe-4dr-sedan.jpg",
+"miles":"10,823",
+"price": "70,477$"
+},
+{
+"modelId": 11235,
+"id": 2,
+"modelName": "Chevrolet",
+"modelType": "Corvette",
+"modelYear": "2020",
+"image": "https://cdn05.carsforsale.com/471bdfbb0f19a92318797251d0c64f7e/480x360/2020-chevrolet-corvette-stingray-2dr-coupe-w-2lt.jpg",
+"miles":"134",
+"price": "99,995$"
+},
+{
+"modelId": 17894,
+"id": 3,
+"modelName": "Mazda",
+"modelType": "RX-8",
+"modelYear": "2004",
+"image": "https://cdn05.carsforsale.com/00ebe6c3dec4e19ec49ca6c490b6c65602/480x360/2004-mazda-rx-8-base-4dr-coupe.jpg",
+"miles":"94,694",
+"price": "5,495$"
+},
+{
+"modelId": 13548,
+"id": 4,
+"modelName": "Nissan",
+"modelType": "370Z",
+"modelYear": "2017",
+"image": "https://cdn05.carsforsale.com/00aae714073fab76226e4f56200f37353a/480x360/2017-nissan-370z-base-2dr-coupe-6m.jpg",
+"miles":"25,556",
+"price": "10,633$"
+},
+{
+"modelId": 17846,
+"id": 5,
+"modelName": "Ford",
+"modelType": "GT",
+"modelYear": "2006",
+"image": "https://cdn05.carsforsale.com/2c4eaee09ad053d13a9dff29dd3e4724/480x360/2006-ford-gt-base-2dr-coupe.jpg",
+"miles":"1,755",
+"price": "529,900$"
+},
+{
+"modelId": 17849,
+"id": 6,
+"modelName": "Ford",
+"modelType": "GT",
+"modelYear": "2005",
+"image": "https://cdn05.carsforsale.com/0e1ea371b9a78040622276b3657870b4/480x360/2005-ford-gt-base-2dr-coupe.jpg",
+"miles":"1,000",
+"price": "359,980$"
+},
+{
+"modelId": 21548,
+"id": 7,
+"modelName": "Audi",
+"modelType": "e-tron",
+"modelYear": "2019",
+"image": "https://cdn05.carsforsale.com/00baea1903e6c1fc26c007e1542aa85fa5/480x360/2019-audi-e-tron-quattro-prestige-awd-4dr-suv.jpg",
+"miles":"133",
+"price": "61,987$"
+},
+{
+"modelId": 21798,
+"id": 8,
+"modelName": "Toyota",
+"modelType": "Camry",
+"modelYear": "2018",
+"image": "https://cdn05.carsforsale.com/00f5ed598e2c6966c500af30a24ff490b0/480x360/2018-toyota-camry-le-4dr-sedan.jpg",
+"miles":"4,242",
+"price": "17,929$"
+},
+{
+"modelId": 21774,
+"id": 9,
+"modelName": "Toyota",
+"modelType": "RAV4",
+"modelYear": "2018",
+"image": "https://cdn05.carsforsale.com/00e2b169e2eade3901a291171a1b365c5b/480x360/2018-toyota-rav4-se-awd-4dr-suv.jpg",
+"miles":"12,842",
+"price": "20,998$"
+},
+{
+"modelId": 28794,
+"id": 10,
+"modelName": "Lamborghini",
+"modelType": "Huracan",
+"modelYear": "2018",
+"image": "https://cdn05.carsforsale.com/00cb753aff30f96c5df94b2680c46a33b4/480x360/2018-lamborghini-huracan-lp-640-4-performante-awd-2dr-coupe.jpg",
+"miles":"1,815",
+"price": "329,990$"
+}
+]
+}
